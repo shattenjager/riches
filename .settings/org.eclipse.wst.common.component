@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="riches-0.0.1-SNAPSHOT">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/etc/jboss4-support/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/etc/tomcat5.5-support/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WEB-INF/src/java"/>
+        <property name="context-root" value="riches"/>
+        <property name="java-output-path" value="/riches/target/classes"/>
+    </wb-module>
+</project-modules>
